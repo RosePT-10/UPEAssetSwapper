@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\_AIRFRAME ULTRA\\_Mods and tools\\_RoseMods\\UPEAssetSwapper\\UPEAssetSwapper\\UPEAssetSwapper.csproj": {}
+    "D:\\_AIRFRAME ULTRA\\_Mods and tools\\_RoseMods\\UPEAssetSwapper\\UPEAssetSwapper_Git\\UPEAssetSwapper\\UPEAssetSwapper.csproj": {}
   },
   "projects": {
-    "D:\\_AIRFRAME ULTRA\\_Mods and tools\\_RoseMods\\UPEAssetSwapper\\UPEAssetSwapper\\UPEAssetSwapper.csproj": {
+    "D:\\_AIRFRAME ULTRA\\_Mods and tools\\_RoseMods\\UPEAssetSwapper\\UPEAssetSwapper_Git\\UPEAssetSwapper\\UPEAssetSwapper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\_AIRFRAME ULTRA\\_Mods and tools\\_RoseMods\\UPEAssetSwapper\\UPEAssetSwapper\\UPEAssetSwapper.csproj",
+        "projectUniqueName": "D:\\_AIRFRAME ULTRA\\_Mods and tools\\_RoseMods\\UPEAssetSwapper\\UPEAssetSwapper_Git\\UPEAssetSwapper\\UPEAssetSwapper.csproj",
         "projectName": "UPEAssetSwapper",
-        "projectPath": "D:\\_AIRFRAME ULTRA\\_Mods and tools\\_RoseMods\\UPEAssetSwapper\\UPEAssetSwapper\\UPEAssetSwapper.csproj",
+        "projectPath": "D:\\_AIRFRAME ULTRA\\_Mods and tools\\_RoseMods\\UPEAssetSwapper\\UPEAssetSwapper_Git\\UPEAssetSwapper\\UPEAssetSwapper.csproj",
         "packagesPath": "C:\\Users\\taldo\\.nuget\\packages\\",
-        "outputPath": "D:\\_AIRFRAME ULTRA\\_Mods and tools\\_RoseMods\\UPEAssetSwapper\\UPEAssetSwapper\\obj\\",
+        "outputPath": "D:\\_AIRFRAME ULTRA\\_Mods and tools\\_RoseMods\\UPEAssetSwapper\\UPEAssetSwapper_Git\\UPEAssetSwapper\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\taldo\\AppData\\Roaming\\NuGet\\NuGet.Config"

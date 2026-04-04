@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K2vs1nHTCmU=",
+  "dgSpecHash": "MDe5U2UQeng=",
   "success": true,
-  "projectFilePath": "D:\\_AIRFRAME ULTRA\\_Mods and tools\\_RoseMods\\UPEAssetSwapper\\UPEAssetSwapper\\UPEAssetSwapper.csproj",
+  "projectFilePath": "D:\\_AIRFRAME ULTRA\\_Mods and tools\\_RoseMods\\UPEAssetSwapper\\UPEAssetSwapper_Git\\UPEAssetSwapper\\UPEAssetSwapper.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\taldo\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
     "C:\\Users\\taldo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",

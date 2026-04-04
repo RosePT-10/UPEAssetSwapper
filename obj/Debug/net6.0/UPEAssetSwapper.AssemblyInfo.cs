@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UPEAssetSwapper")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69a685c6eb5b809156c8468b290f7ce176428229")]
 [assembly: System.Reflection.AssemblyProductAttribute("UPEAssetSwapper")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UPEAssetSwapper")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
